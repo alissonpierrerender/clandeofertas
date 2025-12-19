@@ -1,0 +1,7 @@
+{
+  "name": "CLAN de Ofertas - Premium Deal Finder",
+  "description": "A high-end shopping assistant and deal discovery platform that uses AI to find the best prices and verified offers across major retailers.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
